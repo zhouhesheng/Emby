@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zhouhesheng\\EmbyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD51AC5-2C16-4308-A993-C3A84F3B4582}|MediaBrowser.Api\\MediaBrowser.Api.csproj|d:\\zhouhesheng\\embyserver\\mediabrowser.api\\library\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD51AC5-2C16-4308-A993-C3A84F3B4582}|MediaBrowser.Api\\MediaBrowser.Api.csproj|solutionrelative:mediabrowser.api\\library\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AE38DF-19D7-406F-A6A9-09527719A21E}|BDInfo\\BDInfo.csproj|d:\\zhouhesheng\\embyserver\\bdinfo\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88AE38DF-19D7-406F-A6A9-09527719A21E}|BDInfo\\BDInfo.csproj|solutionrelative:bdinfo\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB4548-770D-41FD-A891-8DAFF44F452C}|Emby.Photos\\Emby.Photos.csproj|d:\\zhouhesheng\\embyserver\\emby.photos\\emby.photos.nuget.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89AB4548-770D-41FD-A891-8DAFF44F452C}|Emby.Photos\\Emby.Photos.csproj|solutionrelative:emby.photos\\emby.photos.nuget.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB4548-770D-41FD-A891-8DAFF44F452C}|Emby.Photos\\Emby.Photos.csproj|d:\\zhouhesheng\\embyserver\\emby.photos\\photoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB4548-770D-41FD-A891-8DAFF44F452C}|Emby.Photos\\Emby.Photos.csproj|solutionrelative:emby.photos\\photoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD51AC5-2C16-4308-A993-C3A84F3B4582}|MediaBrowser.Api\\MediaBrowser.Api.csproj|d:\\zhouhesheng\\embyserver\\mediabrowser.api\\movies\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD51AC5-2C16-4308-A993-C3A84F3B4582}|MediaBrowser.Api\\MediaBrowser.Api.csproj|solutionrelative:mediabrowser.api\\movies\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\zhouhesheng\\EmbyServer\\MediaBrowser.Api\\Library\\LibraryService.cs",
+              "RelativeDocumentMoniker": "MediaBrowser.Api\\Library\\LibraryService.cs",
+              "ToolTip": "D:\\zhouhesheng\\EmbyServer\\MediaBrowser.Api\\Library\\LibraryService.cs",
+              "RelativeToolTip": "MediaBrowser.Api\\Library\\LibraryService.cs",
+              "ViewState": "AQIAADUCAAAAAAAAAAAvwD0CAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:31:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "D:\\zhouhesheng\\EmbyServer\\BDInfo\\ReadMe.txt",
+              "RelativeDocumentMoniker": "BDInfo\\ReadMe.txt",
+              "ToolTip": "D:\\zhouhesheng\\EmbyServer\\BDInfo\\ReadMe.txt",
+              "RelativeToolTip": "BDInfo\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-08T07:24:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emby.Photos.nuget.targets",
+              "DocumentMoniker": "D:\\zhouhesheng\\EmbyServer\\Emby.Photos\\Emby.Photos.nuget.targets",
+              "RelativeDocumentMoniker": "Emby.Photos\\Emby.Photos.nuget.targets",
+              "ToolTip": "D:\\zhouhesheng\\EmbyServer\\Emby.Photos\\Emby.Photos.nuget.targets",
+              "RelativeToolTip": "Emby.Photos\\Emby.Photos.nuget.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-08T07:23:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "D:\\zhouhesheng\\EmbyServer\\MediaBrowser.Api\\Movies\\MoviesService.cs",
+              "RelativeDocumentMoniker": "MediaBrowser.Api\\Movies\\MoviesService.cs",
+              "ToolTip": "D:\\zhouhesheng\\EmbyServer\\MediaBrowser.Api\\Movies\\MoviesService.cs",
+              "RelativeToolTip": "MediaBrowser.Api\\Movies\\MoviesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:22:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotoProvider.cs",
+              "DocumentMoniker": "D:\\zhouhesheng\\EmbyServer\\Emby.Photos\\PhotoProvider.cs",
+              "RelativeDocumentMoniker": "Emby.Photos\\PhotoProvider.cs",
+              "ToolTip": "D:\\zhouhesheng\\EmbyServer\\Emby.Photos\\PhotoProvider.cs",
+              "RelativeToolTip": "Emby.Photos\\PhotoProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:17:27.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

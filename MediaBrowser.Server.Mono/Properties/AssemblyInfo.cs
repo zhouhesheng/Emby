@@ -1,13 +1,4 @@
 using System.Reflection;
-
-// Information about this assembly is defined by the following attributes. 
-// Change them to the values specific to your project.
-[assembly: AssemblyTitle ("MediaBrowser.Server.Mono")]
-[assembly: AssemblyDescription ("")]
-[assembly: AssemblyConfiguration ("")]
-[assembly: AssemblyCompany ("")]
-[assembly: AssemblyProduct ("")]
-[assembly: AssemblyCopyright ("Emby")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
